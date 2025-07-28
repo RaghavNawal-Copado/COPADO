@@ -175,7 +175,8 @@
         <fullName>FirstName__c</fullName>
         <externalId>false</externalId>
         <label>FirstName</label>
-        <required>false</required>
+        <length>20</length>
+        <required>fasle</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
